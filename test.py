@@ -1,1 +1,1 @@
-print("simple test projects"
+print("simple test projects")
